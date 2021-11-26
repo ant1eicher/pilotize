@@ -1,0 +1,10 @@
+{
+  "name": "pilotize",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "volta": {
+    "node": "16.9.0",
+    "npm": "8.1.4"
+  }
+}
