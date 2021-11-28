@@ -12,7 +12,7 @@
 // @match        https://www.jmbaircraft.com/*
 // @match        https://mooneyspace.com/*
 // @match        https://www.tecnam.com/*
-// @run-at       document-idle
+// @run-at       document-end
 // @grant        none
 // ==/UserScript==
 
